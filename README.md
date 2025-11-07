@@ -557,24 +557,3 @@ Contributions are welcome! Please follow these steps:
 ## 📝 License
 
 This project is licensed under the MIT License.
-
-## 👥 Authors
-
-- **Amaan Khan** - Backend/DevOps Engineer
-
-## 🙏 Acknowledgments
-
-- FastAPI framework
-- React and TypeScript ecosystem
-- Scapy for PCAP parsing
-- scikit-learn and XGBoost for ML
-- Recharts for visualizations
-- All open-source contributors
-
-## 📧 Contact
-
-For questions or support, please open an issue on GitHub.
-
----
-
-**Built with ❤️ for cybersecurity professionals**
